@@ -172,6 +172,14 @@
   }
 
   .resume-item-copy { margin: .75rem 0 0; }
+  .resume-item-skill-list {
+    list-style-type: square;
+    margin: 0px;
+    list-style-position: inside;
+  }
+  .resume-skills {
+    column-count: 3;
+  }
 }
 
 // footer styles
@@ -197,6 +205,10 @@
 .print-only { display: none !important }
 
 @media print {
+  .pagebreak {
+    page-break-after: always;
+    padding-bottom: 50px
+  }
   .no-print { display: none !important }
   .print-only { display: block !important }
   body { font-size: 12px; line-height: 1rem; }
