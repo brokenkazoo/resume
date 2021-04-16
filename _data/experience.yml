@@ -1,19 +1,75 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Booz Allen Hamilton
+  positions:
+    - position: DevSecOps Lead
+      duration: Oct, 2019 &mdash; Present
+  summary: |
+    Supported Air Force client in researching, developing, securing, 
+    and deploying a software baseline to multiple operational sites. Duties 
+    included mentoring a team of ~50 engineers in DevSecOps best practices while
+    assisting in the refactoring efforts of all team code repositories. The 
+    refactoring effort was to improve security, usability, and maintainability
+    of the multiple large codebases.
+    <br><br>
+    Implemented OS level hardening with Puppet module (Linux) and Powershell
+    DSC scripts (Windows) to create an automated hardening policy 
+    for all deployed systems. Implemented an Operating System pipeline using
+    Packer. Incorporated all baselines created using the DevSecOps process into
+    a repo that utilized vagrant to quickly create development environments
+    for all of the services offered by the team.
+    <br><br>
+    Lead a large scale effort to add functional level testing to all services 
+    utilizing Robot Framework. Mentored team on best practices for regression
+    testing large system of system installations and complex installation 
+    environments. Utilized the created functional tests in the Jenkins pipeline
+    for quick regression testing of all baseline updates.
+    <br><br>
+    Related Skills: Python, Powershell, Powershell DSC, bash, Ruby, Robot Framework,
+    Active Directory, Puppet, Packer, Vagrant, Jenkins, Jira, Confluence, 
+    BitBucket, Identity Management, MSSQL, MongoDB, Nessus, HBSS, WSUS, KMS, 
+    Windows Server 2012/2016/2019, RedHat 7/8, mkdocs
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Booz Allen Hamilton
+  positions:
+    - position: Cyber Threat Analyst / Senior Lead Technologist
+      duration: June, 2015 &mdash; Oct, 2019
+  summary: |
+    Supported multiple Air Force clients by performing format cyber risks 
+    assessments. Also mentored junior cyber analysts in how to perform site
+    assessments, DISA STIG assessments, and risk report generation. Designed,
+    created, and maintained a multi-user NW.JS / VueJS application for 
+    assisting in the creation of Cyber Risk Assessments by collecting, 
+    correlating, and ranking data collected during site visits. The application
+    is currently being used to create hundreds of assessment reports each year 
+    across the company.
+    <br><br>
+    Related Skills: NodeJS, NW.JS, VueJS, NuxtJS, PouchDB/CouchDB, Nessus, HBSS,
+      Vagrant, Gradle, C
+      <div class="pagebreak"></div><br class="print-only">
 
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Lockheed Martin
+  positions:
+    - position: Senior Information Assurance Engineer
+      duration:  2011 &mdash; 2015
+    - position: Information Assurance Engineer
+      duration:  2008 &mdash; 2011
+    - position: Information Assurance Engineer Associate
+      duration:  2007 &mdash; 2008
+  summary: |
+    Served as the Information Assurance Software Engineering Lead for multiple
+    Air Force clients. Tasks included architecting, developing, deploying, and
+    maintaining a collection of software solutions across multiple sites. Also
+    led all training for information assurance tasks across the contract to 
+    include software development, system hardening, cyber awareness, and 
+    system management.
+    <br><br>
+    Tasks included software creation for accomplishing OS and application
+    hardening, management team workforce across multiple contracts with 
+    constantly shifting priorities, created install/management procedures
+    for Symantec and McAfee software suites, and managed hotfix process for
+    multiple fielded systems. Also created cyber assessment reports and 
+    personally presented them to large audiences of Government employees and 
+    government contractors. Maintained accreditation of over 20 DoD projects.
+    <br><br>
+    Related Skills: VBScript, Bash, Perl, PHP, MySQL, Java, Oracle DB, Access, 
+    DokuWiki, McAfee Suite, Symantec Suite, Nessus, iRetina, Gold Disk
+     
