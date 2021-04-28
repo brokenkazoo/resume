@@ -1,6 +1,6 @@
 # Site settings
 title: "Jason Weitzel"
-description: "Cyber Architect"
+description: "Cyber Architect | DevSecOps Lead"
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Jason Weitzel"
-resume_title:                   "Cyber Architect"
+resume_title:                   "Cyber Architect | DevSecOps Lead"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "jasonweitzel@gmail.com"
@@ -27,7 +27,8 @@ resume_header_intro: |
   Dedicated Cyber Security Architect who is proficient in deploying, maintaining, 
   and securing a complex enterprise-level system of systems. Specialized in 
   implementing DevSecOps best practices to create hardened operating systems and 
-  applications.
+  applications. Experienced in leading and mentoring a large teams of similarly 
+  skilled engineers in high pressure environments.
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
