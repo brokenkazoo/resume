@@ -6,9 +6,12 @@
     and co-workers over the years. Won multiple first place victories in local 
     competitions in Colorado Springs, CO and Rome, NY. Regularly travel to 
     attend DEFCON conference in Las Vegas.
+    <br><br>
+    Related Skills: Kali Linux, Steganography, Pen Testing, Reverse Engineering
 
 - project: Home Projects
-  description: Created and maintain multiple hosted websites on home network and
-    AWS related to multiple hobby projects. Projects include docker swarm 
+  description: |
+    Created and maintain multiple hosted websites on home network and
+    AWS EC2 instances related to multiple hobby projects. Projects include docker swarm 
     with discord integration, docker based pen testing suite, multiple blogs, 
     digital photo album, and multiple other self challenge projects.
