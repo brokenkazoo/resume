@@ -1,17 +1,19 @@
-- project: Cyber Capture The Flag Competitions
+- project: Capture The Flag Cyber Competitions
   role: Team Lead
   duration: 2008 &mdash; Present
   description: |
     Participated, led, and hosted multiple capture the flag games with friends
     and co-workers over the years. Won multiple first place victories in local 
     competitions in Colorado Springs, CO and Rome, NY. Regularly travel to 
-    attend DEFCON conference in Las Vegas.
+    attend DEFCON conference in Las Vegas and participated on Booz Allen team
+    for the DEFCON pre-qualifiers.
     <br><br>
-    Related Skills: Kali Linux, Steganography, Pen Testing, Reverse Engineering
+    Related Skills: Kali Linux, Crypto, Steganography, Web Pen Testing, 
+    Reverse Engineering, Digital Forensics
 
 - project: Home Projects
   description: |
-    Created and maintain multiple hosted websites on home network and
-    AWS EC2 instances related to multiple hobby projects. Projects include docker swarm 
-    with discord integration, docker based pen testing suite, multiple blogs, 
-    digital photo album, and multiple other self challenge projects.
+    Deploy and maintain multiple services running on Docker Swarm and AWS EC2
+    instances. Access is provided using Cloudflare Teams, configuration is 
+    performed using Infrastructure As Code. Services include Gitlab, Taiga, 
+    Terraform, Dokuwiki, Tiddlywiki, Portainer, code-server, and Jekyll.
