@@ -175,7 +175,8 @@
   .resume-item-skill-list {
     list-style-type: square;
     margin: 0px;
-    list-style-position: inside;
+    padding-left: 20px;
+    list-style-position: outside;
   }
   .resume-skills {
     column-count: 3;
