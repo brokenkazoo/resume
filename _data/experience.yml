@@ -19,7 +19,7 @@
     <br><br>
     Lead a large scale effort to add functional level testing to all services 
     utilizing Robot Framework. Mentored team on best practices for regression
-    testing large system of system installations and complex installation 
+    testing large system of systems installations and complex installation 
     environments. Utilized the functional tests in the Jenkins pipeline
     for quick regression testing of all baseline updates.
     <br><br>
