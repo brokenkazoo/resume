@@ -1,7 +1,36 @@
+- company: HEB - San Antonio, TX
+  positions:
+    - position: Principal Application Security Engineer
+      duration: June, 2023 &mdash; Present
+    - position: Lead Application Security Engineer
+      duration: Nov, 2021 &mdash; June, 2023
+  summary: |
+    Provided solutions for over 1,000 developers to automate 
+    SAST, DAST, SCA, and secret detection scanning in their GitLab CI/CD pipelines. 
+    Performed threat assessments on projects utilizing multiple languages 
+    and frameworks. Took part in finding triage process for multiple projects and teams. 
+    <br><br>
+    Created data pipelines and a data lake 
+    integrating data from GitLab, AWS, GCP, Azure, Backstage, Sourcegraph, 
+    and other sources. Developed Grafana dashboards using the data lake 
+    to offer developers personalized insights into their data, security 
+    practices, and other metrics, along with actionable next steps to 
+    address identified issues.
+    <br><br>
+    Mentored developers across various 
+    teams to foster best practices and secure coding. Developed multiple 
+    projects to provide automated solutions in Python. Hosted weekly code 
+    jam sessions to promote strong team synergy. 
+    <br><br> 
+    Related Skills: GitLab CI/CD, SAST, DAST, SCA, Secret Detection, 
+    Threat Assessment, Data Pipelines, Data Lake, Grafana, Python, 
+    AWS, GCP, Azure, Backstage, Sourcegraph, Mentoring, Team Leadership, 
+    Secure Coding, Automation
+
 - company: Booz Allen Hamilton - Rome, NY
   positions:
     - position: Solutions Architect
-      duration: Oct, 2019 &mdash; Present
+      duration: Oct, 2019 &mdash; Nov, 2021
   summary: |
     Supported Air Force client in researching, developing, securing, 
     and deploying a software baseline to multiple operational sites. Duties 

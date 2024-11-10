@@ -10,10 +10,3 @@
     <br><br>
     Related Skills: Kali Linux, Crypto, Steganography, Web Pen Testing, 
     Reverse Engineering, Digital Forensics
-
-- project: Home Projects
-  description: |
-    Deploy and maintain multiple services running on Docker Swarm and AWS EC2
-    instances. Access is provided using Cloudflare Teams, configuration is 
-    performed using Infrastructure As Code. Services include Gitlab, Taiga, 
-    Terraform, Dokuwiki, Tiddlywiki, Portainer, code-server, and Jekyll.
